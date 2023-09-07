@@ -1,0 +1,32 @@
+#box1{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;   
+    font-weight: bold; 
+    margin: 20px;   
+    padding: 15px 10px;   
+}
+
+h1{
+    color: rgb(80, 195, 208);
+}
+
+span{
+    color: white;
+}
+
+#box2{
+    text-align: center;
+    background-color:rgb(106, 16, 129);
+    color: white;
+    margin: 20px;    
+    padding: 8px 10px;
+}
+
+#box3{
+    background-color: rgb(84, 161, 223);
+    text-align: right;
+    text-decoration: underline;
+    margin: 20px;    
+    padding: 4px 10px;
+}
